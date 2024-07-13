@@ -1,4 +1,4 @@
-<div style="background-image: url('https://img.picui.cn/free/2024/07/13/669232d1273bb.png') !important; 
+<div style="background-image: url('https://img.picui.cn/free/2024/07/13/669232d1273bb.png'); 
             background-size: cover; 
             padding: 20px; 
             border-radius: 15px; 
