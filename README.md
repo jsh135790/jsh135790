@@ -9,6 +9,14 @@
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=jsh135790&style=flat-square)
 
+### 🐍 A snake game on my GitHub contributions graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
 ## GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh135790&show_icons=true&theme=radical)
 
