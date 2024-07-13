@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh135790&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=jsh135790&show_icons=true&theme=radical" alt="jsh135790's GitHub stats">
 </p>
 
 <p align="center">
