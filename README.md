@@ -1,3 +1,10 @@
+<div style="background-image: url('https://img.picui.cn/free/2024/07/13/669232d1273bb.png'); 
+            background-size: cover; 
+            padding: 20px; 
+            border-radius: 15px; 
+            backdrop-filter: blur(10px); 
+            -webkit-backdrop-filter: blur(10px);">
+
 # Hi there 👋, I'm Pilot1337
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=jsh135790&style=flat-square)
