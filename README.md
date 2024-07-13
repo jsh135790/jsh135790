@@ -23,3 +23,5 @@
     <img src="https://skillicons.dev/icons?i=css,electron,html,java,js,lua,md,c,cpp,java,py,ps" />
   </a>
 </p>
+
+</div>
