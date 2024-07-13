@@ -2,16 +2,6 @@
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=jsh135790&style=flat-square)
 
-## About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 ## GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh135790&show_icons=true&theme=radical)
 
@@ -20,3 +10,6 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+## Languages and Toolss
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
