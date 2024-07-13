@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Pilot1337  ![GitHub Profile Views](https://komarev.com/ghpvc/?username=jsh135790&style=flat-square)
 
 <p align="center" style="background-color:#f0f0f0; padding:20px; border-radius:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsh135790&show_icons=true&theme=radical" alt="Your Name's GitHub stats">
+  12345213
 </p>
 
 <p align="center">
