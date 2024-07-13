@@ -1,11 +1,8 @@
-<div style="background-color: pink; 
-            background-size: cover; 
-            padding: 20px; 
-            border-radius: 15px; 
-            backdrop-filter: blur(10px); 
-            -webkit-backdrop-filter: blur(10px);">
-
 # Hi there 👋, I'm Pilot1337  ![GitHub Profile Views](https://komarev.com/ghpvc/?username=jsh135790&style=flat-square)
+
+<p align="center" style="background-color:#f0f0f0; padding:20px; border-radius:10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jsh135790&show_icons=true&theme=radical" alt="Your Name's GitHub stats">
+</p>
 
 <p align="center">
   <picture>
@@ -24,5 +21,3 @@
     <img src="https://skillicons.dev/icons?i=css,electron,html,java,js,lua,md,c,cpp,java,py,ps" />
   </a>
 </p>
-
-</div>
