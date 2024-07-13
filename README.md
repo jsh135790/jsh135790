@@ -8,14 +8,17 @@
 # Hi there 👋, I'm Pilot1337
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=jsh135790&style=flat-square)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jsh135790/jsh135790/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jsh135790/jsh135790/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jsh135790/jsh135790/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jsh135790/jsh135790/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jsh135790/jsh135790/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jsh135790/jsh135790/output/github-contribution-grid-snake.svg" />
-</picture>
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh135790&show_icons=true&theme=radical)
+<p align="center">
+  ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh135790&show_icons=true&theme=radical)
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
