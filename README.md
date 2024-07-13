@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Pilot1337  ![GitHub Profile Views](https://komarev.com/ghpvc/?username=jsh135790&style=flat-square)
-<img align="right" alt="Coding" width="400" src="https://img.picui.cn/free/2024/07/13/669232d1273bb.png">
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jsh135790/jsh135790/output/github-contribution-grid-snake-dark.svg" />
