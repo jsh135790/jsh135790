@@ -9,22 +9,13 @@
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=jsh135790&style=flat-square)
 
-### 🐍 A snake game on my GitHub contributions graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jsh135790/jsh135790/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jsh135790/jsh135790/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/jsh135790/jsh135790/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh135790&show_icons=true&theme=radical)
-
-## Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 <p align="center">
   <a href="https://skillicons.dev">
